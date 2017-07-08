@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule "index.html" "index.php?module=home&controller=home&action=index"
+
+RewriteRule "admin.html" "index.php?module=manage&controller=admin&action=index"

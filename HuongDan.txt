@@ -1,0 +1,9 @@
+﻿- url vào site home:	http://localhost:81/shopping/index.php?module=home&controller=home&action=index
+  tài khoản user mua hàng:
+	id: ngyenvana
+	pass: Novocain0089!@#
+		
+- url vào site home:	http://localhost:81/shopping/index.php?module=manage&controller=admin&action=index
+  tài khoản admin:
+	id: Administrator
+	pass: Acb123acb!@#
